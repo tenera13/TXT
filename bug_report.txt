@@ -1,1 +1,15 @@
-
+title: Application crashes upon clicking the SAVE button while creating a new user
+bug_ID: 1
+reported_by: gubareva
+severity: critical
+priority: high
+environment: windows 10,Edge 101.0.1210.32
+summary: Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application
+preconditions: http://qwerty.com
+steps_to_reproduce: 
+1)Login into the Application 
+2)Navigate to the Users Menu -> New User 
+3)Filled out all the user information fields 
+4)Clicked on the ‘Save’ button
+expected_result: you should be prompted to a successful message 'New User has been created successfully'
+actual_result: Application crashes
