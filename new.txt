@@ -1,0 +1,5 @@
+name: Gubareva Alena Pavlovna
+age: 30
+pets: 0
+desired salary: 80000
+
