@@ -1,0 +1,6 @@
+f_film: The Truman show
+f_serias: Sherlock
+f_food: sushi
+f_season: summer
+f_country: Cyprus
+

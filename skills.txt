@@ -1,0 +1,4 @@
+s1: lnux terminal
+s2: JS
+s3": git
+
